@@ -83,7 +83,7 @@ const renderD3 = (dataMap, dataEdu) => {
   
     legend.append('g')
           .append('text')
-          .text("Figure it out.")
+          .text("Dark = High %")
           .attr("x", 100)
           .attr('y', 39)
 
