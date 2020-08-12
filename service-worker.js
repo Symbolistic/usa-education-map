@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/usa-education-map/precache-manifest.defc4bd3d0cad33e521fc85d6742a9b8.js"
+  "/usa-education-map/precache-manifest.bfb2c500dbf3dfc2a7cb20817482e657.js"
 );
 
 self.addEventListener('message', (event) => {
